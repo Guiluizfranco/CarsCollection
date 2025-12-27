@@ -17,3 +17,4 @@ C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Colecao_Carros\bin\D
 C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Colecao_Carros\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Colecao_Carros\bin\Debug\net10.0\MySqlConnector.dll
 C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Colecao_Carros\obj\Debug\net10.0\Colecao_.49DEEB79.Up2Date
+C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Colecao_Carros\obj\Debug\net10.0\Colecao_Carros.sourcelink.json
