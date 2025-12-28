@@ -1,6 +1,7 @@
 
 using System.Dynamic;
 
+/*Classe que representa o objeto carro*/
 public class Carro
 {
     public int Id {get; set;}
