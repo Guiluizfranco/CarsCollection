@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFANfJj3la4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gui\\Desktop\\Tudo\\Programação\\C#\\Coleção_Carros\\InterfaceGrafica\\IDE\\IDE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
