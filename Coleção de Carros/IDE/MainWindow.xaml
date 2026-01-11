@@ -7,26 +7,88 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="533" Width="800"
         Background="WhiteSmoke" >
-    <Grid Margin="4,0,2,4" Background="LightGray">
-        <Button Background="DodgerBlue" Margin="193,10,547,468" Click="Button_Click_1">Editar</Button>
-        <Button Background="Red" Margin="252,10,486,468" RenderTransformOrigin="0.524,-0.17">Excluir</Button>
-        <Button Background="Gray" Margin="715,469,22,10">Sair</Button>
-        <Button Background="LightGreen" Margin="10,10,615,468" Click="Button_OpenWindowCadastro">Adicionar Carro</Button>
+    <Grid Background="LightGray" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+           
+            <RowDefinition Height="*"/>
+           
+            <RowDefinition Height="Auto"/>
+           
+        </Grid.RowDefinitions>
 
-        <DataGrid x:Name="dataGridCarros" Margin="10,58,10,49" AutoGenerateColumns="False" IsReadOnly="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+      
+        <Button Grid.Row="0"
+            Grid.Column="0"
+            Content="Adicionar Carro"
+            Background="LightGreen"
+            Width="150"
+            Height="35"
+            HorizontalAlignment="Left"
+            Click="Button_OpenWindowCadastro"/>
+
+        
+        <Button Grid.Row="0"
+            Grid.Column="1"
+            Content="Sair"
+            Background="Gray"
+            Width="100"
+            Height="35"
+            HorizontalAlignment="Right"/>
+
+       
+        <DataGrid x:Name="dataGridCarros"
+              Grid.Row="1"
+              Grid.ColumnSpan="2"
+              Margin="0,10,0,10"
+              AutoGenerateColumns="False"
+              IsReadOnly="True"
+              CanUserAddRows="False">
             <DataGrid.Columns>
-                
-                <DataGridTextColumn Header="Nome" Binding="{Binding nome}" Width="*"/>
-                <DataGridTextColumn Header="Marca" Binding="{Binding marca}" Width="*"/>
-                <DataGridTextColumn Header="Ano" Binding="{Binding ano}" Width="*"/>
-                <DataGridTextColumn Header="Preço" Binding="{Binding preco}" Width="*"/>
-                
-            </DataGrid.Columns> 
+
+                <DataGridTextColumn Header="ID"
+                                Binding="{Binding id}"
+                                Width="*"/>
+
+                <DataGridTextColumn Header="Nome"
+                                Binding="{Binding nome, UpdateSourceTrigger=PropertyChanged}"
+                                Width="*"/>
+
+                <DataGridTextColumn Header="Marca"
+                                Binding="{Binding marca, UpdateSourceTrigger=PropertyChanged}"
+                                Width="*"/>
+
+                <DataGridTextColumn Header="Ano"
+                                Binding="{Binding ano, UpdateSourceTrigger=PropertyChanged}"
+                                Width="*"/>
+
+                <DataGridTextColumn Header="Preço"
+                                Binding="{Binding preco, UpdateSourceTrigger=PropertyChanged}"
+                                Width="*"/>
+
+                <DataGridTemplateColumn Header="Editar" Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Editar"
+                                Background="CornflowerBlue"
+                                Padding="10,3"
+                                Click="Button_EditarCarro"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
         </DataGrid>
 
-
-
+      
+       
     </Grid>
+
 
 
 

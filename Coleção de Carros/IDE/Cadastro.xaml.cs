@@ -26,12 +26,14 @@ namespace IDE
 
         }
 
+        
+        
         Models conexaoClasses = new Models();
         private void Button_Cadastrar(object sender, RoutedEventArgs e)
         {
             Carros carro = new Carros();
-            
-             
+
+            carro.id = int.Parse(TextId.Text); 
 
             carro.nome = TextNome.Text; if(string.IsNullOrEmpty(carro.nome))
             {
@@ -57,7 +59,7 @@ namespace IDE
                 return;
             }
 
-            conexaoClasses.Cadastrar(carro.nome, carro.marca, carro.ano, carro.preco);
+            conexaoClasses.Cadastrar(carro.id, carro.nome, carro.marca, carro.ano, carro.preco);
             listaCarros.Add(carro);
         }
     }

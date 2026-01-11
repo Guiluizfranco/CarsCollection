@@ -2,12 +2,18 @@
 
 public class Carros
 {
-	private string Nome;
+	private int Id;	
+    private string Nome;
 	private string Marca;
 	private int Ano;
 	private float Preco;
 
-	public string nome
+	public int id
+	{
+		get { return Id; }
+		set { Id = value; }
+    }
+    public string nome
 	{
 		get { return Nome; }
 		set { Nome = value; }

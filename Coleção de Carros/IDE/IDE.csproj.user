@@ -5,5 +5,8 @@
     <Compile Update="Cadastro.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Editar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

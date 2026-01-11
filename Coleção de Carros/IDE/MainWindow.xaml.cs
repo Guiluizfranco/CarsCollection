@@ -37,16 +37,17 @@ namespace IDE
             cadastroWindow.Show();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+       private void Button_EditarCarro(object sender, RoutedEventArgs e)
         {
+           var botao = sender as Button;
+           var carroSelecionado = botao.DataContext as Carros;
+
+           Editar editarWindow = new Editar(carroSelecionado);
+           editarWindow.Show();
 
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
 
-        }
 
-        
     }
 }

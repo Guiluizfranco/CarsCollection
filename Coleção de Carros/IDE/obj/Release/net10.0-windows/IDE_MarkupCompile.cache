@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\InterfaceGrafica\IDE\obj\Release\net10.0-windows\
+C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Coleção de Carros\IDE\obj\Release\net10.0-windows\
 IDE
 none
 false
 TRACE;RELEASE;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\InterfaceGrafica\IDE\App.xaml
-11407045341
+C:\Users\Gui\Desktop\Tudo\Programação\C#\Coleção_Carros\Coleção de Carros\IDE\App.xaml
+21237485147
 
-10-2035743492
+8-1044693567
 209-1842502332
-MainWindow.xaml;
+Cadastro.xaml;MainWindow.xaml;
 
 True
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFANfJj3la4=",
+  "dgSpecHash": "Q5IqQTaXfAg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gui\\Desktop\\Tudo\\Programação\\C#\\Coleção_Carros\\InterfaceGrafica\\IDE\\IDE.csproj",
+  "projectFilePath": "C:\\Users\\Gui\\Desktop\\Tudo\\Programação\\C#\\Coleção_Carros\\Coleção de Carros\\IDE\\IDE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gui\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Gui\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",

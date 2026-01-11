@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\",
+  "WorkspaceRootPath": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\editar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\editar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\objetocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\editar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\editar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\objetocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\objetocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\interfacegrafica\\ide\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|c:\\users\\gui\\desktop\\tudo\\programa\u00E7\u00E3o\\c#\\cole\u00E7\u00E3o_carros\\cole\u00E7\u00E3o de carros\\ide\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4885585F-F8EE-BC38-D60A-BFF10489BDEA}|IDE\\IDE.csproj|solutionrelative:ide\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +42,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Editar.xaml.cs",
+              "RelativeDocumentMoniker": "IDE\\Editar.xaml.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Editar.xaml.cs*",
+              "RelativeToolTip": "IDE\\Editar.xaml.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:00:43.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Editar.xaml",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Editar.xaml",
+              "RelativeDocumentMoniker": "IDE\\Editar.xaml",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Editar.xaml*",
+              "RelativeToolTip": "IDE\\Editar.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T18:59:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\MainWindow.xaml",
               "RelativeDocumentMoniker": "IDE\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\MainWindow.xaml",
               "RelativeToolTip": "IDE\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-31T22:44:32.148Z",
@@ -56,62 +85,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "IDE\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\MainWindow.xaml.cs",
-              "RelativeToolTip": "IDE\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "IDE\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T22:44:24.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cadastro.xaml",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Cadastro.xaml",
-              "RelativeDocumentMoniker": "IDE\\Cadastro.xaml",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Cadastro.xaml",
-              "RelativeToolTip": "IDE\\Cadastro.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-01T21:26:41.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cadastro.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Cadastro.xaml.cs",
-              "RelativeDocumentMoniker": "IDE\\Cadastro.xaml.cs",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Cadastro.xaml.cs",
-              "RelativeToolTip": "IDE\\Cadastro.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T21:26:41.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Models.cs",
-              "RelativeDocumentMoniker": "IDE\\Models.cs",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\Models.cs",
-              "RelativeToolTip": "IDE\\Models.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvy4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:06:32.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ObjetoCarro.cs",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\ObjetoCarro.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\ObjetoCarro.cs",
               "RelativeDocumentMoniker": "IDE\\ObjetoCarro.cs",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\ObjetoCarro.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\ObjetoCarro.cs",
               "RelativeToolTip": "IDE\\ObjetoCarro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T02:04:15.672Z",
               "EditorCaption": ""
@@ -119,14 +110,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DBConnection.cs",
-              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\DBConnection.cs",
-              "RelativeDocumentMoniker": "IDE\\DBConnection.cs",
-              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\InterfaceGrafica\\IDE\\DBConnection.cs",
-              "RelativeToolTip": "IDE\\DBConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Title": "Cadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Cadastro.xaml.cs",
+              "RelativeDocumentMoniker": "IDE\\Cadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Cadastro.xaml.cs",
+              "RelativeToolTip": "IDE\\Cadastro.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T19:31:34.172Z",
+              "WhenOpened": "2026-01-11T15:54:37.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Cadastro.xaml",
+              "RelativeDocumentMoniker": "IDE\\Cadastro.xaml",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Cadastro.xaml",
+              "RelativeToolTip": "IDE\\Cadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-11T17:42:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Models.cs",
+              "RelativeDocumentMoniker": "IDE\\Models.cs",
+              "ToolTip": "C:\\Users\\Gui\\Desktop\\Tudo\\Programa\u00E7\u00E3o\\C#\\Cole\u00E7\u00E3o_Carros\\Cole\u00E7\u00E3o de Carros\\IDE\\Models.cs",
+              "RelativeToolTip": "IDE\\Models.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:06:32.388Z",
               "EditorCaption": ""
             }
           ]
