@@ -49,8 +49,18 @@ namespace IDE
             }
         }
 
+        public void Deletar(int id)
+        {
+            string sql = $"DELETE from CARROS WHERE id = @id;";
 
+            DBConnection conexao = new DBConnection();
 
+            using (MySqlCommand cmd = new MySqlCommand(sql, conexao.Conectar()))
+            {
+                cmd.Parameters.AddWithValue("@id", id);
+                cmd.ExecuteNonQuery();
+            }
+        }
 
         public void AdicionarValoresListaCarros(ObservableCollection<Carros> ListaCarros)
         {
